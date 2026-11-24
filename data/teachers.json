@@ -1,0 +1,8 @@
+[
+  { "firstName": "Sarah",  "lastName": "Johnson", "lessonIDs": [1001, 1003],       "avatar": "sarah-johnson.png", "colour": "#4DABF7", "bio": "Turns tricky sums and science experiments into puzzles and games." },
+  { "firstName": "David",  "lastName": "Smith",   "lessonIDs": [1002, 1006],       "avatar": "david-smith.png",   "colour": "#FF6B6B", "bio": "Brings stories to life, on the page and on the stage." },
+  { "firstName": "Aisha",  "lastName": "Khan",    "lessonIDs": [1004, 1005],       "avatar": "aisha-khan.png",    "colour": "#9775FA", "bio": "Helps every child find their own colours and their own rhythm." },
+  { "firstName": "Tom",    "lastName": "Brown",   "lessonIDs": [1009, 1010],       "avatar": "tom-brown.png",     "colour": "#40C057", "bio": "Keeps kids active, confident and having fun on the pitch and in the pool." },
+  { "firstName": "Priya",  "lastName": "Patel",   "lessonIDs": [1007, 1008, 1012], "avatar": "priya-patel.png",   "colour": "#14A098", "bio": "Loves building robots, apps and clever chess strategies with young minds." },
+  { "firstName": "Carlos", "lastName": "Garcia",  "lessonIDs": [1011, 1005],       "avatar": "carlos-garcia.png", "colour": "#F59F00", "bio": "Teaches Spanish through songs, games and a little bit of guitar." }
+]
