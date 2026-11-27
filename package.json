@@ -8,6 +8,8 @@
     "start": "node server.js"
   },
   "license": "ISC",
+    "engines": {
+    "node": "24.x" },
   "dependencies": {
     "cors": "^2.8.5",
     "dotenv": "^16.4.7",
